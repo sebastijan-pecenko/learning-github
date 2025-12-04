@@ -7,4 +7,4 @@ This is my first GitHub repository where I am practicing how to use GitHub.
 - How to edit files on GitHub
 - How commits work
 ## 🙋‍♂️Fun fact about me
-I remember memes better than birthdays
+I remember memes better than birthdays.
